@@ -1,0 +1,59 @@
+.top_header {
+	height: 95px;
+}
+
+.top_header .columns {
+	height: 95px;
+}
+
+.logo {
+	background-color: #10b5ff;
+}
+
+.navigation {
+	background-color: #ffc93b;
+}
+
+hr {
+	color: red;
+}
+
+.topnews .three.columns {
+	background: #ff4845;
+	height: 100px;
+}
+
+.row .latest_content {
+	background-color: #7cc343;
+	background: ;
+	height: 150px;
+}
+
+.row .latest_content {
+	background-color: #7cc343;
+	background: ;
+	height: 150px;
+}
+
+
+/* ---  --- */
+
+.main_content {
+	background: yellow;
+}
+
+.inner_content.columns {
+	background: blue;
+}
+
+.sidebar.columns {
+	background: green;
+}
+
+.footer {
+	background: purple;
+}
+
+.footer .three.columns {
+	background: #5a806b;
+}
